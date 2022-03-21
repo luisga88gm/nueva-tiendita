@@ -1,0 +1,23 @@
+.cartItemCount {
+  font-size: 12px;
+  background: #ff0000;
+  color: #fff;
+  padding: 0 5px;
+  vertical-align: top;
+}
+
+.white{
+    color: #fff;
+    text-decoration: none;
+}
+
+.white:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+.margin0{
+  margin-bottom:0
+}
